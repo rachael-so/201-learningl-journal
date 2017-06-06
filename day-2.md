@@ -1,14 +1,7 @@
 # Learning Journal: Day 2
 
-Today I shredded all kinds of codez.
+Today I learned about the big overview of things such as Objects, Events, MVC Architecture, etc.
 
-I also spoke of ***some*** my family members:
+I also started to learn how to use Git and GitHub.  There are a lot of steps and things that I think I will eventually memorize and get a hang of.
 
-- Demi
-- Alistair
-- Kimberly
-
-Oh yeah, my other beasts are:
-
-1. BuddyCat
-2. Trillian
+A lot of this is new but I will eventually get it!
