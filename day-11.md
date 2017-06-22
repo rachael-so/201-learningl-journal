@@ -1,4 +1,4 @@
-# Learing Journal: Day 11
+# Learning Journal: Day 11
 
 Today we started the bus mall project. This required a lot of thinking and figuring out how things work. I think I did well overall. The hardest part was figuring out the no duplicating situation.
 
