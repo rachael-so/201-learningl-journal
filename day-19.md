@@ -1,4 +1,4 @@
-# Learning-Journal: Day 20
+# Learning-Journal: Day 19
 
 Today we finished some stuff on the code and had major git shows and merging conflicts. Isaiah's laptop stopped working so he had to pair up with someone.
 
